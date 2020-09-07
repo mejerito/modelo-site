@@ -1,0 +1,22 @@
+{
+  "name": "gulp",
+  "version": "1.0.0",
+  "description": "gulp mano",
+  "main": "gulpfile.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/mejerito/modelo-site.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/mejerito/modelo-site/issues"
+  },
+  "homepage": "https://github.com/mejerito/modelo-site#readme",
+  "devDependencies": {
+    "gulp-watch": "^5.0.1"
+  }
+}
